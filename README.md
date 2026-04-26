@@ -23,18 +23,21 @@ AI Course Copilot helps students choose the right courses based on their profile
 
 ## 📁 Project Structure
 
+```text
 project/
-├── app.py
-├── main.py
-├── data.json
-├── .env
-├── requirements.txt
-└── README.md
+├── .env                # Environment variables (API keys, secrets)
+├── app.py              # Application logic or entry point
+├── data.json           # Data storage file
+├── main.py             # Main execution script
+├── README.md           # Project documentation
+└── requirements.txt    # List of Python dependencies
+```
 
 ---
 
 ## ⚙️ Setup Instructions
 
+```bash
 ### 1. Clone the repository
 git clone <repo-url>
 cd project
@@ -59,3 +62,4 @@ Backend runs at: http://127.0.0.1:8000
 
 ### 6. Run the frontend
 streamlit run app.py
+```
