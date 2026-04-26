@@ -1,4 +1,5 @@
 # AI Course Copilot 🤖📚
+Anthropic X UMD Hackathon
 
 AI Course Copilot helps students choose the right courses based on their profile, academic history, and career goals. Instead of relying on scattered resources, students can ask questions in natural language and get personalized recommendations instantly.
 
